@@ -1,5 +1,7 @@
 backend: # Set up your backend
   name: github
+  repo: tantrongtt/trong-minimal-blog
+  branch: master
 
 local_backend: true # Optional if you want to use the local proxy mode
 
