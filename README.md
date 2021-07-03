@@ -24,5 +24,3 @@ If you don't have *yarn* installed follow the [yarn getting started guide](https
 
 For more information visit the [Theme repository](https://github.com/narative/gatsby-theme-novela)
 
-# trong-minimal-blog
-# trongnguyen-minimal-blog
