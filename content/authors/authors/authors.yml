@@ -1,0 +1,16 @@
+- name: Trong Nguyen
+  bio: |
+    Hi, I'm Trong, product designer living in Singapore. I write to practice, and write to find ideas. Nice to meet you!
+  avatar: ./avatars/trong-nguyen.jpg
+  featured: true
+  social:
+    - url: https://twitter.com/trongtnt92
+    - url: https://medium.com/@trongtnt92
+
+- name: Jolie Happy
+  bio: |
+    I'm Jolie Happy. Jolie is cute, and Happy is happy.
+  avatar: ./avatars/jolie-2.JPG
+  featured: true
+  social:
+    - url: https://github.com
